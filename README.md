@@ -185,4 +185,13 @@ Interleaving is also true for inter-disciplinary settings: if we can change betw
 
 ## 5. Procrastination
 
+Procrastination occurs because our brain anticipates a painful situation or effort; thus, our focus goes to pleasure activities.
 
+Procrastinations shares similarities with addition: temporary excitement and relief. However, it can cause really bad future situations; similarly, solving the issue of procrastination can unfold many positive effects on our lifes.
+
+Habits are central in procrastrination; we can have good or bad habits, they can be brief in time or long, but all of them have the following properties
+
+1. 
+2.
+3.
+4.
