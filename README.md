@@ -189,9 +189,12 @@ Procrastination occurs because our brain anticipates a painful situation or effo
 
 Procrastinations shares similarities with addition: temporary excitement and relief. However, it can cause really bad future situations; similarly, solving the issue of procrastination can unfold many positive effects on our lifes.
 
+Chunking is basically creating habits: the first time we do something it feels really difficult and we are focused and even overwhelmed by the amout of cues we are receiving; as we repeat and create the habit or chunk, it becomes much easier, since the skills are compressed and easily accessible, and we can free our mind for other information/tasks. Practicing a habit we become like zombies: we carry out the task without being really aware or conscious of it; for example: driving.
+
 Habits are central in procrastrination; we can have good or bad habits, they can be brief in time or long, but all of them have the following properties
 
-1. 
-2.
-3.
-4.
+1. The cue: the signal that triggers a habit, good or bad; for example: text message - Monday 17:00
+2. The routine: habitual response the seeing the cue, zombi mode: read and respond messages - work out
+3. The reward: every habit continues because we get something positive from it, pleasure: get informed entertained - feel good, healthy
+4. The belief: habits have power because we have strong underlying beliefs of them: I connect to friends - being healthy gives me life quality
+
