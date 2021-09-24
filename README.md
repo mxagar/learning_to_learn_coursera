@@ -198,3 +198,28 @@ Habits are central in procrastrination; we can have good or bad habits, they can
 3. The reward: every habit continues because we get something positive from it, pleasure: get informed entertained - feel good, healthy
 4. The belief: habits have power because we have strong underlying beliefs of them: I connect to friends - being healthy gives me life quality
 
+### Process vs Product
+
+We distinguish the process and the product when learning:
+- Process: learn 30 minutes or do exercises during that time
+- Product: Finish the chapter
+
+Procrastination happens more easily if we focus on the product instead of the process; the product causes pain. Therefore, we should focus on the process: plan the process(es) we'd like to carry out, without thinking on the product, and the product will arrive.
+
+### Harnessing the Zombies
+
+The key to change a habit is to pay attention and alter our reaction to the cue.
+
+Typical **cues** fall onto the four following categories:
+- location
+- time
+- how you feel
+- reactions
+
+We need to be aware of the cues that trigger our undesired behaviours; if it's a location, we should avoid going there!
+
+In order to affect the **routine**, we need to change our **reaction** to the cue, which is achieved by having a **plan**.
+
+The **reward** is fundamental! Habits work if we have rewards; thus, if we want to create a good habit, we need to add rewards to achievements!
+
+The **belief** that we can achieve something helps us solidify the habit.
