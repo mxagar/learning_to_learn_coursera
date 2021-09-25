@@ -198,7 +198,7 @@ Habits are central in procrastrination; we can have good or bad habits, they can
 3. The reward: every habit continues because we get something positive from it, pleasure: get informed entertained - feel good, healthy
 4. The belief: habits have power because we have strong underlying beliefs of them: I connect to friends - being healthy gives me life quality
 
-### Process vs Product
+### 5.1 Process vs Product
 
 We distinguish the process and the product when learning:
 - Process: learn 30 minutes or do exercises during that time
@@ -206,7 +206,7 @@ We distinguish the process and the product when learning:
 
 Procrastination happens more easily if we focus on the product instead of the process; the product causes pain. Therefore, we should focus on the process: plan the process(es) we'd like to carry out, without thinking on the product, and the product will arrive.
 
-### Harnessing the Zombies
+### 5.2 Harnessing the Zombies
 
 The key to change a habit is to pay attention and alter our reaction to the cue.
 
@@ -223,3 +223,44 @@ In order to affect the **routine**, we need to change our **reaction** to the cu
 The **reward** is fundamental! Habits work if we have rewards; thus, if we want to create a good habit, we need to add rewards to achievements!
 
 The **belief** that we can achieve something helps us solidify the habit.
+
+### 5.3 Journaling and Planing
+
+We should have two journals:
+1. Things we plan to do this week
+2. Things we plan to do the next day
+
+The second should be written the night before, so as to help our unconscious mind to prepare for them and work more focused on them. We can write small product oriented tasks, but it is better to collect process oriented ones. Do not put too many things on the list -- be realistic!
+
+Not only work should be go there, but also things like: go for a walk, finish time, etc. Planing quit time is fundamental, as important as planing working time; we should not work too much, actually we should fill in our time with leisure.
+
+The first pomodoros should de dicated to the most unpleasant tasks.
+
+## 6. Memory
+
+We have an overproportionated **visual and spatial** memory; it makes sense evolutionarily, since our ancestors need to know *where things are and how they look*.
+Therefore, we should make use of that memory somehow!
+
+If we want to transfer concepts from our working to our long-term memory, trying **memorable learning experiences/perceptions** is key; also, they need to be **repeated spaced in time**, otherwise memories dissipate. That means we need to **extend the time intervals between retrievals**.
+
+Other key aspects are
+- Thinking on impactful images and multi-sensorial aspects of the things we'd like to remember: smells, feels, sound, etc.
+- Actively doing something, like handwriting or drawing the concept.
+
+A great tool that makes the aforementioned possible are **index cards**: We put on one side the concept and on the other the key aspects, drawings, etc. We train by retrieving the content of the cards spaced in time. Tool to check out: Anki; and also the Anki format.
+
+### 6.1 What is long-term memory?
+
+Long-term memories (thus, what we learn) are stored thanks to the **hippocampus**.
+Note that some memories take some years to be consolidated!
+
+Memories are not static: they change when we retrieve or reactivate them, in a process called re-consolidation; this happens in such a way that it is not possible to distinguish between real memories and imagined details. This is specially true for children, who have vivid imagination.
+
+Memories are stored as neural synapses and can remain dormant for years.
+
+Spaced learning is fundamental, since it helps the consolidation of memories; if we learn for a exam the night before, we might remember what we learned, but it will quickly fade away - so that's a waste of time.
+
+**Astrocites** might also play an important role in learning according to recent studies.
+Astrocites are star-formed glial cells all over our brain that provide with nutrients, maintain and repair them, and maintain extracellular ion balance.
+Einstein had above average of these and when mice are injected with human atrocites learn faster.
+
