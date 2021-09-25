@@ -264,3 +264,11 @@ Spaced learning is fundamental, since it helps the consolidation of memories; if
 Astrocites are star-formed glial cells all over our brain that provide with nutrients, maintain and repair them, and maintain extracellular ion balance.
 Einstein had above average of these and when mice are injected with human atrocites learn faster.
 
+### 6.2 Meaningful memory groups
+
+**Mnemonics** are useful:
+- First letters forming a word (in medicine there are a lot)
+- Associating memories or important events to years or numbers
+
+**Memory Palace Technique**: it consists in using a well known space (your home, your way to school) an placing there items we'd like to remember in a known order. Memorable and creative images are easier to remember, for instance if we want to remember eggs, we place giant broken eggs in the living room. Studies have shown that it is possible to acquire expert level faster and more effectively; additionally, the more creative we become with time!
+
