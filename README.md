@@ -272,3 +272,30 @@ Einstein had above average of these and when mice are injected with human atroci
 
 **Memory Palace Technique**: it consists in using a well known space (your home, your way to school) an placing there items we'd like to remember in a known order. Memorable and creative images are easier to remember, for instance if we want to remember eggs, we place giant broken eggs in the living room. Studies have shown that it is possible to acquire expert level faster and more effectively; additionally, the more creative we become with time!
 
+## 7. Renaissance Learning: Unlocking Your Potential
+
+How to become a better learner:
+- **Exercise**! Because we push neurogenesis in the hippocampus; exercise is more effective than any drug to learn better. Similarly, periods of recess are also important so that the knowldge consolidates in our brains.
+- New experiences related to what we learned consolidate new neurons or new neural paths we create while learning.
+
+Note that several parts of our brain reach maturity in different time points:
+- Visual spatial understanding matures by the age of 2; but recent studies have shown that it's possible to train it in the adulthood.
+- Language acquisition is specially good until puberty.
+
+Note that learning does not happen progressively: specially when learning languages, sometimes learners have periods in which they understand nothing - that is normal: knowledge foundations are being consolidated in the brain; often, when we get out of those periods, we see we've done a great leap forward.
+
+### 7.1 Metaphores and Analogies
+
+Metaphores are very powerful when learning new concepts, because they a basically pointers to similar concepts we already understand well; if metaphores ahe a visual component, better.
+
+Also, try to imagine part of the things we learn and try to visualize them: be in a soup of molecules, between light rays, feel the steepness of a function.
+
+### 7.2 Repetition and Genius
+
+Understanding a concept is fundamental for learning, but the real leanring happens when we repeat it and the pattern is available in our brain; thus, we do not go through the process of understanding it later on. Something similar happens when learning how to play any sport: we might understand the concepts, but we need to practice the sport again ad again to master it.
+
+Some people might have more than 4 slots in their working memory, so they can handle more information at once; they are smarter, but they tend to be less creative, because they suffer from Einstellung. There seems to be a tension between smarts and creativity, and the latter is definitely necessary to come up with new ideas.
+
+It is very common to suffer the **imposter syndrome**: the sensation that we are not real experts, we're not good at what be do.
+
+### 7.3 Change Your Thoughts, Change Your Life
