@@ -298,4 +298,33 @@ Some people might have more than 4 slots in their working memory, so they can ha
 
 It is very common to suffer the **imposter syndrome**: the sensation that we are not real experts, we're not good at what be do.
 
-### 7.3 Change Your Thoughts, Change Your Life
+Charles Darwin and Santiago Ramón y Cajal were bad students and/or they had problems when they were young. But they had a natural curiosity and were perseverant. We should identify our natural interests and habilities and try to harvest them.
+
+Ramón y Cajal was of the opinion that he was not as smart as many great scientist he met; however, he realized that even those smart people were biased and made errors; he, on the other hand, was very perseverant and open to change his mind and accept errors constantly. That's probaly one of the key aspects that brought him to win the Nobel prize. Ramón y Cajal thought also that we all are able to change our minds.
+
+We should take responsibility of our education.
+
+### 7.3 Left and Right Hemispheres
+
+The left hemisphere tries to focus on the work we are doing and thinks it is correct, while the right hemisphere performs reality and consistency checks. Brainstorming and team work are essential to avoid our blindspots; additionally, they allow the flow of information between the hemispheres. Find study groups.
+
+### 7.4 Test Checklist
+
+Testing has a wonderful way of concentrating the mind.
+Richard Felder created a checklist to se if we are prepared for the test; we should answer YES to most of the questions:
+
+- Did you make a serious effort to understand the text?
+- Did you work with classmates on homework problems, or at least check your solutions with others?
+- Did you attempt to outline every homework problem solution?
+- Did you participate actively in homework group discussions?
+- Did you consult with the instructor in case of problems/doubts?
+- Did you understand ALL of your homework problem solutions?
+- Did you ask in class for explanations of homework problem solutions that weren't clear to you?
+- If you had a study guide, did you go through it at the end?
+- Did you attempt to outline lots of problem solutions quickly?
+- Did you go over the study guide and problems classmates and quiz one another?
+- Did you attend the review session?
+- Did you get a reasonable night's sleep before the test?
+
+The way to prepare for a test is clear after seeing this checklist :)
+
