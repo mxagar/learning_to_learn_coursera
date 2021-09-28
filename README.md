@@ -328,3 +328,15 @@ Richard Felder created a checklist to se if we are prepared for the test; we sho
 
 The way to prepare for a test is clear after seeing this checklist :)
 
+### 7.5 Tips for Tests
+
+**Hard-start jump easy**: It is better to start with the difficult parts of the test and then, without finishing, go to the easiest parts after few minutes. That's because we take advantage of the difuse mode. After finishing the easy parts, we retake the difficult ones. Similarly, as soon as we get stuck on a part, we should change problems and then, come back.
+
+Other helpful techniques:
+- Shifting the interpretation from *I'm vervous because of the test* to *this test is exciting* helps going through stress management.
+- Breathing techniques: breathe from the stomach; this calms us down. But we need to practice it days before the test; then, in the test, we enter in a calmed mode we've been training.
+- Make tests at home harder than usual, since we have more harsh conditions in the real test (not at home, time limit, etc.)
+- Study hard until the day before; on that day, just relax and think: *I studied hard, let's see how many answers I get; if it doesn't work, I can always change careers*. The effect is that we release stress and get closer to our first career choice.
+- Rehearse or review the material the day before, but do not work too hard the day before.
+- To avoid Einstellung during the text, blink and look away sometimes during the exam.
+- Check the answers from the back to the start, it seems to work better.
