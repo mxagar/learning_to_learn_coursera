@@ -7,7 +7,36 @@ This repository contains my personal notes on the Coursera course "Learning How 
 The course presents methods for learning based on the latest neuroscience research insights.
 
 Overview:
-1. Focused versus Diffuse Thinking
+
+- [Learning How to Learn: Powerful mental tools to help you master tough subjects](#learning-how-to-learn-powerful-mental-tools-to-help-you-master-tough-subjects)
+  - [1. Focused versus Diffuse Thinking](#1-focused-versus-diffuse-thinking)
+    - [1.1 What Is Learning?](#11-what-is-learning)
+  - [2. Procrastination, Memory, and Sleep](#2-procrastination-memory-and-sleep)
+    - [We have two main types of memories](#we-have-two-main-types-of-memories)
+    - [Sleep is fundamental for learning](#sleep-is-fundamental-for-learning)
+    - [Interview with Dr. Terrence Sejnowski](#interview-with-dr-terrence-sejnowski)
+    - [Tips from neuroscience to keep you focused on hard tasks, David Badre, Nature 2021](#tips-from-neuroscience-to-keep-you-focused-on-hard-tasks-david-badre-nature-2021)
+  - [3. Chunking](#3-chunking)
+    - [3.1 How to form a chunk](#31-how-to-form-a-chunk)
+    - [3.2 Illusions of Competence](#32-illusions-of-competence)
+  - [4. Seeing the Bigger Picture](#4-seeing-the-bigger-picture)
+    - [4.1 Neuromodulators](#41-neuromodulators)
+    - [4.2 A Library of Chunks](#42-a-library-of-chunks)
+    - [4.3 Overlearning](#43-overlearning)
+  - [5. Procrastination](#5-procrastination)
+    - [5.1 Process vs Product](#51-process-vs-product)
+    - [5.2 Harnessing the Zombies](#52-harnessing-the-zombies)
+    - [5.3 Journaling and Planing](#53-journaling-and-planing)
+  - [6. Memory](#6-memory)
+    - [6.1 What is long-term memory?](#61-what-is-long-term-memory)
+    - [6.2 Meaningful memory groups](#62-meaningful-memory-groups)
+  - [7. Renaissance Learning: Unlocking Your Potential](#7-renaissance-learning-unlocking-your-potential)
+    - [7.1 Metaphores and Analogies](#71-metaphores-and-analogies)
+    - [7.2 Repetition and Genius](#72-repetition-and-genius)
+    - [7.3 Left and Right Hemispheres](#73-left-and-right-hemispheres)
+    - [7.4 Test Checklist](#74-test-checklist)
+    - [7.5 Tips for Tests](#75-tips-for-tests)
+
 
 Mikel Sagardia, 2021.
 No warranties
@@ -22,6 +51,7 @@ Two modes of thinking ar distinguised:
 Focused and Diffuse Modes: Analogy with pinball (c) Kevin Mendez.
 
 Some notes:
+
 - If we are in one mode, we cannot benefit from the other
 - In focused mode, we directly access our brain part related to the solving
 - In the diffuse mode, we more slowly need to explore pathways and need more space between neural networks/pathways
